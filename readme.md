@@ -1,4 +1,11 @@
-# CODTECH Internship – Task 2: Deep Learning Project
+# CODTECH Internship – Task 2: Deep Learning Project for Plant Disease Classification
+
+# Company:- CodTech IT Solutions Pvt. Ltd., Hyderabad
+# Name:- Shaunak Damodar Sinai Kunde
+# Intern ID:- CT04DY1729
+# Domain:- Data Science
+# Duration:- 4 weeks
+# Mentor:- Muzammil Ahmed
 
 This project is part of my CODTECH Virtual Internship under Data Science.
 The goal is to build a deep learning model for image classification using the Plant Disease dataset from Kaggle.
@@ -106,3 +113,4 @@ This concludes Task-2: Deep Learning Project for the CodTech Internship 🚀
 
 
 👨‍💻 Developed by: Shaunak Damodar Sinai Kunde
+
