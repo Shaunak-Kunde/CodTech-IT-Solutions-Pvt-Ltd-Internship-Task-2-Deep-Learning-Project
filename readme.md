@@ -91,6 +91,8 @@ Trained CNN model → plant_disease_cnn.h5
 Accuracy & Loss plots
 
 Sample predictions with visualization
+<img width="917" height="478" alt="image" src="https://github.com/user-attachments/assets/6e2c995a-cbd6-45b2-a433-b61d0d7b90f6" />
+
 
 ⚠️ Note
 
@@ -101,5 +103,6 @@ Use Kaggle API to download the dataset before running the notebook.
 validation_split is used instead of separate test folder for evaluation.
 
 This concludes Task-2: Deep Learning Project for the CodTech Internship 🚀
+
 
 👨‍💻 Developed by: Shaunak Damodar Sinai Kunde
